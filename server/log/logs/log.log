@@ -1,0 +1,43 @@
+{"level":"error","time":"2023-08-22T10:12:46.460+0800","line":"blockchain/blockchain.go:133","msg":"no contract code at given address","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:15:15.922+0800","line":"blockchain/blockchain.go:131","msg":"0xB8b9B2a2f34dB02f47650710Ce06517CEdcCDe3f","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:15:16.240+0800","line":"blockchain/blockchain.go:134","msg":"no contract code at given address","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:17:04.943+0800","line":"blockchain/blockchain.go:131","msg":"0xC8981701D83364c51C62220ED3a650f6e8AD4AAb","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:17:05.270+0800","line":"blockchain/blockchain.go:134","msg":"no contract code at given address","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:17:22.479+0800","line":"blockchain/blockchain.go:131","msg":"0x7D50F17C824A90683ED12ABE12b8758163ac374b","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:17:22.816+0800","line":"blockchain/blockchain.go:134","msg":"no contract code at given address","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:18:05.206+0800","line":"blockchain/blockchain.go:131","msg":"0x7D50F17C824A90683ED12ABE12b8758163ac374b","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:18:07.234+0800","line":"blockchain/blockchain.go:137","msg":"approve ok0xf054a8e7c073810a9469c077ab170269864db04566422eef3d6b62d938a733c1","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:18:16.514+0800","line":"blockchain/blockchain.go:131","msg":"0xC8981701D83364c51C62220ED3a650f6e8AD4AAb","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:18:18.461+0800","line":"blockchain/blockchain.go:137","msg":"approve ok0xce5beb22623218d5220af3f19ec9a66c930e0f50941113238be75ed577592798","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:23:01.465+0800","line":"blockchain/blockchain.go:152","msg":"0xC8981701D83364c51C62220ED3a650f6e8AD4AAb","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:23:03.978+0800","line":"blockchain/blockchain.go:155","msg":"execution reverted","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:24:05.193+0800","line":"blockchain/blockchain.go:152","msg":"0xC8981701D83364c51C62220ED3a650f6e8AD4AAb","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:24:42.867+0800","line":"blockchain/blockchain.go:152","msg":"0xC8981701D83364c51C62220ED3a650f6e8AD4AAb","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:24:44.498+0800","line":"blockchain/blockchain.go:155","msg":"execution reverted","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:26:48.621+0800","line":"blockchain/blockchain.go:156","msg":"adminSetTokenAddress ok 0x104eed70f8344177c8657e0cbe30ddd1b42a2e550c9f272c06791d9b0144a57c","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:26:58.948+0800","line":"blockchain/blockchain.go:171","msg":"0xC8981701D83364c51C62220ED3a650f6e8AD4AAb","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:27:00.925+0800","line":"blockchain/blockchain.go:177","msg":"sale ok 0x3d3d87f5f83b24f839299864bbdae86c903f9dc863e4c35544fa1c44abcef515","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:36:19.659+0800","line":"blockchain/blockchain.go:84","msg":"get event dataabi: cannot marshal in to go type: length insufficient 160 require 192","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:36:19.660+0800","line":"blockchain/blockchain.go:60","msg":"getLogs error:abi: cannot marshal in to go type: length insufficient 160 require 192","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:53:17.665+0800","line":"blockchain/blockchain.go:147","msg":"0xe7DC77d00784c302b3CF0fda39A337aBad899E78","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:53:19.670+0800","line":"blockchain/blockchain.go:153","msg":"approve ok 0x33adc704168d386f43840afc7ad3411f00024eecddc356534ffcac41c792e6d5","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:53:21.282+0800","line":"blockchain/blockchain.go:172","msg":"adminSetTokenAddress ok 0x99d46b3eb017abed974e1d906c4f6b00f09be8474f6c04aed4ba75bd72b9b6cd","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:53:21.283+0800","line":"blockchain/blockchain.go:187","msg":"0xe7DC77d00784c302b3CF0fda39A337aBad899E78","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:53:22.325+0800","line":"blockchain/blockchain.go:190","msg":"execution reverted","serviceName":"into"}
+{"level":"info","time":"2023-08-22T10:54:25.969+0800","line":"blockchain/blockchain.go:191","msg":"sale ok 0x371c62097c0120718b3e8d5fb039fa17846aa5a0a6d9f5777da41652b82c9482","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:55:14.544+0800","line":"blockchain/blockchain.go:84","msg":"get event dataabi: cannot marshal in to go type: length insufficient 128 require 160","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:55:14.546+0800","line":"blockchain/blockchain.go:60","msg":"getLogs error:abi: cannot marshal in to go type: length insufficient 128 require 160","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:56:55.363+0800","line":"blockchain/blockchain.go:84","msg":"get event dataabi: cannot marshal in to go type: length insufficient 128 require 160","serviceName":"into"}
+{"level":"error","time":"2023-08-22T10:56:55.365+0800","line":"blockchain/blockchain.go:60","msg":"getLogs error:abi: cannot marshal in to go type: length insufficient 128 require 160","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:35:30.023+0800","line":"blockchain/blockchain.go:109","msg":"sql: database is closed","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:36:06.809+0800","line":"blockchain/blockchain.go:109","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:39:01.745+0800","line":"blockchain/blockchain.go:109","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:47:19.570+0800","line":"blockchain/blockchain.go:108","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:49:40.443+0800","line":"blockchain/blockchain.go:108","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:51:49.506+0800","line":"blockchain/blockchain.go:108","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:51:59.644+0800","line":"blockchain/blockchain.go:108","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T11:57:06.650+0800","line":"blockchain/blockchain.go:108","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T14:00:16.834+0800","line":"blockchain/blockchain.go:108","msg":"pq: syntax error at or near \"int\"","serviceName":"into"}
+{"level":"error","time":"2023-08-22T14:06:52.949+0800","line":"blockchain/blockchain.go:108","msg":"pq: relation \"orders\" does not exist","serviceName":"into"}
+{"level":"error","time":"2023-08-22T14:07:46.612+0800","line":"blockchain/blockchain.go:108","msg":"pq: relation \"orders\" does not exist","serviceName":"into"}
+{"level":"error","time":"2023-08-22T14:08:10.133+0800","line":"blockchain/blockchain.go:108","msg":"pq: column \"orderid\" does not exist","serviceName":"into"}
